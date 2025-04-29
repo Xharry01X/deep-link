@@ -16,7 +16,19 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.harshit1245.deeplink"
+      "package": "com.harshit1245.deeplink",
+      "intentFilters": [
+      {
+        "action": "VIEW",
+        "data": [
+          {
+            "scheme":"myapp",
+            "host": "*"
+          }
+        ]
+      }
+    ],
+    "category": ["BROWSABLE","DEFAULT"]
     },
     "web": {
       "bundler": "metro",
