@@ -18,9 +18,24 @@ export function App() {
       linking={{
         enabled: 'auto',
         prefixes: [
-          // Change the scheme to match your app's scheme defined in app.json
-          'helloworld://',
+          'navi://', // This should match your scheme in app.json
         ],
+        config: {
+          screens: {
+            // Add your screen configuration here
+            // Example:
+            Home: '',
+            Profile: 'profile',
+            Settings: 'settings',
+            // For nested navigators:
+            Main: {
+              screens: {
+                Feed: 'feed',
+                Notifications: 'notifications',
+              },
+            },
+          },
+        },
       }}
       onReady={() => {
         SplashScreen.hideAsync();

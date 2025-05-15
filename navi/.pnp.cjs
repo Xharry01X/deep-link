@@ -46,7 +46,7 @@ const RAW_RUNTIME_STATE =
           ["react-native", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:0.79.1"],\
           ["react-native-edge-to-edge", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:1.6.0"],\
           ["react-native-gesture-handler", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:2.24.0"],\
-          ["react-native-safe-area-context", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:5.3.0"],\
+          ["react-native-safe-area-context", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:5.4.0"],\
           ["react-native-screens", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:4.10.0"],\
           ["react-native-web", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:0.20.0"],\
           ["typescript", "patch:typescript@npm%3A5.8.3#optional!builtin<compat/typescript>::version=5.8.3&hash=5786d5"]\
@@ -3292,7 +3292,7 @@ const RAW_RUNTIME_STATE =
           ["color", "npm:4.2.3"],\
           ["react", "npm:19.0.0"],\
           ["react-native", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:0.79.1"],\
-          ["react-native-safe-area-context", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:5.3.0"],\
+          ["react-native-safe-area-context", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:5.4.0"],\
           ["react-native-screens", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:4.10.0"]\
         ],\
         "packagePeers": [\
@@ -3361,7 +3361,7 @@ const RAW_RUNTIME_STATE =
           ["color", "npm:4.2.3"],\
           ["react", "npm:19.0.0"],\
           ["react-native", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:0.79.1"],\
-          ["react-native-safe-area-context", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:5.3.0"]\
+          ["react-native-safe-area-context", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:5.4.0"]\
         ],\
         "packagePeers": [\
           "@react-native-masked-view/masked-view",\
@@ -3430,7 +3430,7 @@ const RAW_RUNTIME_STATE =
           ["@types/react-navigation__native", null],\
           ["react", "npm:19.0.0"],\
           ["react-native", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:0.79.1"],\
-          ["react-native-safe-area-context", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:5.3.0"],\
+          ["react-native-safe-area-context", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:5.4.0"],\
           ["react-native-screens", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:4.10.0"],\
           ["warn-once", "npm:0.1.1"]\
         ],\
@@ -7176,7 +7176,7 @@ const RAW_RUNTIME_STATE =
           ["react-native", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:0.79.1"],\
           ["react-native-edge-to-edge", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:1.6.0"],\
           ["react-native-gesture-handler", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:2.24.0"],\
-          ["react-native-safe-area-context", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:5.3.0"],\
+          ["react-native-safe-area-context", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:5.4.0"],\
           ["react-native-screens", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:4.10.0"],\
           ["react-native-web", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:0.20.0"],\
           ["typescript", "patch:typescript@npm%3A5.8.3#optional!builtin<compat/typescript>::version=5.8.3&hash=5786d5"]\
@@ -8002,21 +8002,21 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["react-native-safe-area-context", [\
-      ["npm:5.3.0", {\
-        "packageLocation": "./.yarn/unplugged/react-native-safe-area-context-virtual-d2afeccbbc/node_modules/react-native-safe-area-context/",\
+      ["npm:5.4.0", {\
+        "packageLocation": "./.yarn/unplugged/react-native-safe-area-context-virtual-05a393e5f9/node_modules/react-native-safe-area-context/",\
         "packageDependencies": [\
-          ["react-native-safe-area-context", "npm:5.3.0"]\
+          ["react-native-safe-area-context", "npm:5.4.0"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:5.3.0", {\
-        "packageLocation": "./.yarn/unplugged/react-native-safe-area-context-virtual-d2afeccbbc/node_modules/react-native-safe-area-context/",\
+      ["virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:5.4.0", {\
+        "packageLocation": "./.yarn/unplugged/react-native-safe-area-context-virtual-05a393e5f9/node_modules/react-native-safe-area-context/",\
         "packageDependencies": [\
           ["@types/react", "npm:19.0.14"],\
           ["@types/react-native", null],\
           ["react", "npm:19.0.0"],\
           ["react-native", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:0.79.1"],\
-          ["react-native-safe-area-context", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:5.3.0"]\
+          ["react-native-safe-area-context", "virtual:9de07f777669ca7e6afcac7e754497ab64819c7edf294cfad0cc0257d8f5762a724be850a286e628eb78a879bd116ed9de7762144fc116e81a32e0d2e099cb27#npm:5.4.0"]\
         ],\
         "packagePeers": [\
           "@types/react-native",\

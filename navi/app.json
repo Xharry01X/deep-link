@@ -22,6 +22,18 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
+    "intentFilters": [
+    {
+      "action": "VIEW",
+      "data": [
+        {
+          "scheme": "navi",
+          "host": "*"
+        }
+      ],
+      "category": ["BROWSABLE", "DEFAULT"]
+    }
+  ],
     "plugins": [
       "expo-asset",
       [
