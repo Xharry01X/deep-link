@@ -23,7 +23,8 @@
       "favicon": "./assets/favicon.png"
     },
     "intentFilters": [
-    {
+    {cd ..
+    
       "action": "VIEW",
       "data": [
         {
